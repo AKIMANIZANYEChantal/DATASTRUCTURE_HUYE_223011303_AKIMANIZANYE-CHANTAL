@@ -28,3 +28,6 @@ I can test different scenarios such as:
 •	Apply interest to savings accounts monthly.
 •	Add account holder names and details.
 •	GUI version using frameworks like Qt or Windows Forms • Abstract Class: Account with pure virtual functions Inheritance: SavingsAccount and CheckingAccount derive from Account •Polymorphism: Method dispatching based on account type • Dynamic Arrays: For storing accounts and transaction history • Pointer Arithmetic: To calculate balances from transaction arrays
+
+
+
